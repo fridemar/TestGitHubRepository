@@ -3,6 +3,6 @@ I made a textfile and saved it in the local folder.
 This is the description of my first commit, named Testing MereText.
 
 Now I am adding my first line.
-This is my second line (Auf dem lokalen Ordner war ich schon weiter. 
+This is my second line
+(Auf dem lokalen Ordner war ich schon weiter. 
 Die Aenderungen wurden trotz Sync und Commit nicht eingefuegt)
-)
